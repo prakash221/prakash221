@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on a Awesome Projects. <br>Currently learning Redux toolkit after learning MERN Stack.<br>
+Pushing my limits<br>
 
 
 ## 🌐 Socials:
